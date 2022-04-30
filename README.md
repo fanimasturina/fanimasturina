@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Fani Masturina
-- ⛽ I'm a graduate student of Computer Science and Mathematics Degree on Binus University.
+- 👾 Welcome to my github page, sometimes i read - sometimes i develop.
+- 👩🏻‍💻 Work at Tokocrypto as a Software Quality Assurance.
 - 📫 Reach me out through email: masturinaf@gmail.com
 
 <!---
