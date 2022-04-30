@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fani Masturina
-- ⛽ I'm a student of Computer Science and Mathematics Degree on Binus University.
+- ⛽ I'm a graduate student of Computer Science and Mathematics Degree on Binus University.
 - 📫 Reach me out through email: masturinaf@gmail.com
 
 <!---
