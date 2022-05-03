@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Fani Masturina.
 - 👾 Welcome to my github page, sometimes i read - sometimes i develop.
 - 👩🏻‍💻 Work at Tokocrypto as a Software Quality Assurance.
-- 📫 Reach me out through email: masturinaf@gmail.com.
 - 📚 Currently learning about machine learning, automation test and data processing.
+- 📫 Reach me out through email: masturinaf@gmail.com.
 - 🎧 Most jamming to Raisa and Danilla.
 
 <!---
